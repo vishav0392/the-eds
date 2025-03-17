@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Onliners</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; }
+        header { background: #007bff; color: white; padding: 15px; font-size: 24px; }
+        section { padding: 20px; }
+        .faq, .universities { text-align: left; max-width: 800px; margin: auto; }
+        footer { background: #f1f1f1; padding: 10px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>The Onliners</header>
+    
+    <section>
+        <h2>Welcome to The Onliners</h2>
+        <p>Your trusted platform for free counseling on online UG and PG programs.</p>
+    </section>
+    
+    <section class="faq">
+        <h2>Frequently Asked Questions</h2>
+        <p><strong>Is the counseling really free?</strong><br>Yes, our counseling services are completely free.</p>
+        <p><strong>How do I enroll?</strong><br>Contact us via email, phone, or Instagram to get started.</p>
+        <p><strong>Are there any good universities?</strong><br>Yes, we are partnered with reputed universities through College Vidya.</p>
+    </section>
+    
+    <section class="universities">
+        <h2>Our Partner Universities</h2>
+        <ul>
+            <li>University 1</li>
+            <li>University 2</li>
+            <li>University 3</li>
+            <!-- Add more universities as needed -->
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Contact Us</h2>
+        <p>Email: vishavparmar00@gmail.com</p>
+        <p>Instagram: <a href="https://www.instagram.com/Vishav_____01" target="_blank">Vishav_____01</a></p>
+        <p>Phone: 8580914215</p>
+    </section>
+    
+    <footer>
+        &copy; 2025 The Onliners. All rights reserved.
+    </footer>
+</body>
+</html>
